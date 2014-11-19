@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<remote fetch="git://github.com/" name="github1"/>
+	<project name="keyur2maru/android_device_xiaomi_armani" path="device/xiaomi/armani" remote="github1" revision="cm-12.0" />
 	<project name="armani-dev/proprietary_vendor_xiaomi" path="vendor/xiaomi" revision="cm-11.0" remote="github1" />
         <remove-project name="CyanogenMod/android_hardware_libhardware_legacy" />
         <remove-project name="CyanogenMod/android_hardware_qcom_media" />
