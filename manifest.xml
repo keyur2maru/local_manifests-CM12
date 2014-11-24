@@ -5,6 +5,6 @@
 	<project name="keyur2maru/android_device_xiaomi_armani" path="device/xiaomi/armani" remote="github1" revision="android-4.4" />
 	<project name="armani-dev/proprietary_vendor_xiaomi" path="vendor/xiaomi" revision="cm-11.0" remote="github1" />
 	<project name="armani-dev/android_hardware_qcom_display-caf-legacy" path="hardware/qcom/display-caf-legacy" remote="github1" revision="cm-11.0" />
-        <project name="armani-dev/android_hardware_qcom_media-caf-legacy" path="hardware/qcom/media-caf-legacy" remote="github1" revision="cm-11.0" />
+        <project name="keyur2maru/android_hardware_qcom_media-caf-legacy" path="hardware/qcom/media-caf-legacy" remote="github1" revision="cm-11.0" />
 	<project name="armani-dev/android_kernel_xiaomi_armani" path="kernel/xiaomi/armani" remote="github1" revision="cm-11.0" />
 	</manifest>
