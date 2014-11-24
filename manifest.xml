@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<remote fetch="git://github.com/" name="github1"/>
-	<project name="keyur2maru/android_hardware_libhardware_legacy-1" path="hardware/libhardware_legacy" remote="github1" revision="android-4.4" />
+	<project name="keyur2maru/android_hardware_libhardware_legacy" path="hardware/libhardware_legacy" remote="github1" revision="cm-11.0" />
 	<project name="keyur2maru/android_device_xiaomi_armani" path="device/xiaomi/armani" remote="github1" revision="android-4.4" />
 	<project name="armani-dev/proprietary_vendor_xiaomi" path="vendor/xiaomi" revision="cm-11.0" remote="github1" />
 	<project name="armani-dev/android_hardware_qcom_display-caf-legacy" path="hardware/qcom/display-caf-legacy" remote="github1" revision="cm-11.0" />
